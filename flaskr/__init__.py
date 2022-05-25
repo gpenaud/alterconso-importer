@@ -38,8 +38,8 @@ def create_app(test_config=None):
     # load the test config if passed in
     app.config.from_mapping(test_config)
 
-  @app.route('/test-config', methods=['GET'])
-  def test_config():
+  @app.route('/healthcheck', methods=['GET'])
+  def healthcheck():
     return "ok", status.HTTP_200_OK
 
   # a simple page that says hello
