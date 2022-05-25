@@ -1,0 +1,164 @@
+
+"Fromage":
+  - "YATA - fromage de brebis style grec"
+  - "Tomme de Brebis"
+  - "pyramide cendrée"
+  - "frais de chèvre à la ciboulette"
+  - "Crottin de chèvre"
+  - "Bûche cendrée de chèvre"
+  - "Courlis"
+  - "Tomette"
+  - "Fondue Bressane"
+
+"Yaourts & Fromages Frais":
+  - "Yaourt de Brebis"
+  - "Consigne Pot Yaourt"
+
+"Agneau":
+  - "agneau de lait"
+
+"Charcuterie":
+  - "Saucisse fumée de porc fermier"
+  - "Pâté de chevreaux"
+
+"Œufs":
+  - "oeufs - par boite de 6"
+
+"Légumes":
+  - "ail"
+  - "ail frais"
+  - "Aubergine"
+  - "Échalotes"
+  - "épinards"
+  - "basilic"
+  - "Batavia"
+  - "betteraves"
+  - "blette"
+  - "carottes"
+  - "céléri"
+  - "cebettes"
+  - "cerfeuil"
+  - "Chou"
+  - "Chou-fleur"
+  - "choucroute"
+  - "chrysanthemes"
+  - "ciboulette"
+  - "concombre"
+  - "coriandre"
+  - "corne"
+  - "courge"
+  - "courgette"
+  - "Cressonette"
+  - "fève"
+  - "fenouil"
+  - "haricot"
+  - "laitue"
+  - "maïs"
+  - "mâche"
+  - "Mesclun"
+  - "mizuna"
+  - "Moutarde"
+  - "Navet"
+  - "Oignons"
+  - "Patate"
+  - "Persil"
+  - "poireaux"
+  - "poivron"
+  - "pomme de terre"
+  - "pommes_de_terre"
+  - "Pommes de Terre"
+  - "Potimarron"
+  - "pourpier"
+  - "Radis"
+  - "Rhubarbe"
+  - "Roquette"
+  - "Salade"
+  - "Scarole"
+  - "Shizo"
+  - "tomates"
+  - "Wasabino"
+
+"Café, thé et infusions":
+  - "Tisane"
+
+"Confitures, miel, compotes":
+  - "Miel"
+
+"Céréales / Farines / Graines":
+  - "Farine - Farine de Sarrasin"
+
+"Boeuf":
+  - "Steak haché"
+
+"Jus de Fruits":
+  - Jus de pomme - 1 litre
+
+"Confiseries & Chocolat":
+  - "pain de sucre"
+
+# +----+--------------------------------+------------+
+# | id | name                           | categoryId |
+# +----+--------------------------------+------------+
+# |  1 | Poissons                       |          1 |
+# |  2 | Livraison à domicile           |          2 |
+# |  3 | Hygiène                        |          3 |
+# |  4 | Traiteur                       |          4 |
+# |  5 | Cosmétiques                    |          3 |
+# |  6 | Maison et Entretien            |          5 |
+# |  7 | Jardin & Potager               |          5 |
+# |  8 | Herbes et Plantes              |          6 |
+# |  9 | Pâtisserie                     |          7 |
+# | 10 | Beurre & Crème Fraîche         |          8 |
+# | 11 | Boissons alcoolisées           |          9 |
+# | 12 | Fruits de mer                  |          1 |
+# | 13 | Viennoiseries                  |          7 |
+# | 14 | Autres Viandes                 |         10 |
+# | 15 | Poissons et crustacés          |          1 |
+# | 16 | Escargots                      |         10 |
+# | 17 | Animaux                        |         11 |
+# | 18 | Artisanat                      |         12 |
+# | 19 | Glaces & Sorbets               |          8 |
+# | 21 | Objets culturels               |         12 |
+# | 22 | Atelier, Cours et Visite       |         12 |
+# | 23 | Boissons sans alcool           |          9 |
+# | 24 | Information                    |         12 |
+# | 25 | Jouets                         |         12 |
+# | 26 | Fromage                        |          8 |
+# | 27 | Habillement                    |         12 |
+# | 28 | Jus de Fruits                  |          9 |
+# | 29 | Yaourts & Fromages Frais       |          8 |
+# | 30 | Soupes et Conserves            |          6 |
+# | 31 | Galettes et Crêpes             |          7 |
+# | 32 | Pains                          |          7 |
+# | 33 | Légumes                        |          6 |
+# | 34 | Confitures, miel, compotes     |         14 |
+# | 35 | Céréales / Farines / Graines   |         14 |
+# | 36 | Rillettes et Pâtés             |         10 |
+# | 37 | Paniers composés               |          6 |
+# | 38 | Condiments, épices, sucres     |         14 |
+# | 39 | Fruits                         |          6 |
+# | 40 | Fruits secs                    |          6 |
+# | 41 | Apéritif                       |         14 |
+# | 42 | Compléments alimentaires       |         14 |
+# | 43 | Café, thé et infusions         |         14 |
+# | 44 | Soupes et Rillettes            |          1 |
+# | 45 | Rillettes et Pâtés             |         10 |
+# | 46 | Poissons fumés                 |          1 |
+# | 47 | Sauces                         |         14 |
+# | 48 | Confiseries & Chocolat         |         14 |
+# | 49 | Artisanat et culture           |         12 |
+# | 50 | Œufs                           |          8 |
+# | 51 | Huiles                         |         14 |
+# | 52 | Légumes secs                   |          6 |
+# | 53 | Boissons fraîches              |          9 |
+# | 54 | Lait                           |          8 |
+# | 55 | Sirop                          |          9 |
+# | 56 | Volailles et gibiers           |         10 |
+# | 57 | Boeuf                          |         10 |
+# | 58 | Foie Gras et Confits           |         10 |
+# | 59 | Agneau                         |         10 |
+# | 60 | Charcuterie                    |         10 |
+# | 61 | Porc                           |         10 |
+# | 62 | Veau                           |         10 |
+# | 65 | Divers                         |         39 |
+# +----+--------------------------------+------------+

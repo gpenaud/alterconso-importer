@@ -1,0 +1,19 @@
+
+{
+  "mysql": {
+    "host": "localhost",
+    "port": 3306,
+    "user": "docker",
+    "passwd": "docker",
+    "database": "db",
+    "charset": "utf8mb4",
+    "collation": "utf8mb4_unicode_ci",
+    "use_unicode": true
+  },
+  "images": {
+    "path": "data/images"
+  },
+  "taxonomy": {
+    "path": "data/taxonomy.yaml"
+  }
+}
