@@ -6,7 +6,7 @@ import logging
 import requests
 import sys
 
-from flaskr.utils.singleton import *
+from importer.utils.singleton import *
 
 class Image:
   name       = None

@@ -1,3 +1,36 @@
+"Agneau":
+  - "agneau de lait"
+
+"Boeuf":
+  - "Steak haché"
+
+"Café, thé et infusions":
+  - "Tisane"
+
+"Céréales / Farines / Graines":
+  - "Farine - Farine de Sarrasin"
+
+"Charcuterie":
+  - "Saucisse fumée de porc fermier"
+  - "Pâté de chevreaux"
+
+"Confiseries & Chocolat":
+  - "pain de sucre"
+
+"Confitures, miel, compotes":
+  - "Miel"
+  - "Coffret cadeau 3 confitures"
+  - "Confiture"
+  - "Compotée"
+  - "Compote"
+  - "Gelée"
+  - "Noisettine"
+  - "Crème de noix au caramel"
+  - "Crème de chou fleur"
+
+"Foie Gras et Confits":
+  - "Chutney"
+  - "Confit"
 
 "Fromage":
   - "YATA - fromage de brebis style grec"
@@ -10,20 +43,36 @@
   - "Tomette"
   - "Fondue Bressane"
 
-"Yaourts & Fromages Frais":
-  - "Yaourt de Brebis"
-  - "Consigne Pot Yaourt"
+"Hygiène":
+  - "savon"
 
-"Agneau":
-  - "agneau de lait"
+"Jus de Fruits":
+  - Jus de pomme - 1 litre
 
-"Charcuterie":
-  - "Saucisse fumée de porc fermier"
-  - "Pâté de chevreaux"
+"Maison et Entretien":
+  - "lessive"
 
 "Œufs":
   - "oeufs - par boite de 6"
 
+"Sauces":
+  - "Sauce tomate basilic"
+  - "Pesto"
+
+"Sirop":
+  - "sirop de perle"
+
+"Soupes et Conserves":
+  - "Soupe"
+  - "Courgettes à la tomate"
+  - "Purée d'aubergine"
+  - "Purée de piment"
+
+"Yaourts & Fromages Frais":
+  - "Yaourt de Brebis"
+  - "Consigne Pot Yaourt"
+
+# last because it will take many things
 "Légumes":
   - "ail"
   - "ail frais"
@@ -38,6 +87,7 @@
   - "céléri"
   - "cebettes"
   - "cerfeuil"
+  - "Champignons Pleurotes"
   - "Chou"
   - "Chou-fleur"
   - "choucroute"
@@ -78,23 +128,7 @@
   - "tomates"
   - "Wasabino"
 
-"Café, thé et infusions":
-  - "Tisane"
 
-"Confitures, miel, compotes":
-  - "Miel"
-
-"Céréales / Farines / Graines":
-  - "Farine - Farine de Sarrasin"
-
-"Boeuf":
-  - "Steak haché"
-
-"Jus de Fruits":
-  - Jus de pomme - 1 litre
-
-"Confiseries & Chocolat":
-  - "pain de sucre"
 
 # +----+--------------------------------+------------+
 # | id | name                           | categoryId |

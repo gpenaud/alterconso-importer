@@ -16,3 +16,14 @@ def cast_stringy_boolean(bool):
     return 1
   elif bool == 'false':
     return 0
+
+def cast_none_as_string(n):
+  return lambda n: n or ""
+
+def cast_string_as_none(s):
+  if s == "":
+    ret = None
+  else:
+    ret = s
+
+  return ret

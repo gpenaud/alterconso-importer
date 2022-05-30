@@ -41,9 +41,9 @@ Go to the repository folder, then execute importer through `pipenv.
 Start cagette-importer in development mode by running:
 
 ```
-% FLASK_APP=flaskr FLASK_ENV=development pipenv run flask run
+% FLASK_APP=importer FLASK_ENV=development pipenv run flask run
 
-  * Serving Flask app 'flaskr' (lazy loading)
+  * Serving Flask app 'importer' (lazy loading)
   * Environment: development
   * Debug mode: on
   * Running on http://127.0.0.1:5000 (Press CTRL+C to quit)

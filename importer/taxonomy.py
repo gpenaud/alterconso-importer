@@ -5,7 +5,7 @@ import logging
 import re
 import yaml
 
-from flaskr.utils.singleton import *
+from importer.utils.singleton import *
 
 class Taxonomy:
   txp_data = None
@@ -74,7 +74,6 @@ class Taxonomy:
 
   def get_txp_product_id(self):
     """Return the TxpProduct ID of the current product"""
-    txp_subcategory_name = self.search_subcategory(self.txp_data, self.product)
     query="""SELECT id FROM TxpProduct WHERE name = %s LIMIT 1;"""
 
     cursor = get_connection().cursor()
